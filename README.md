@@ -1,6 +1,6 @@
 # Uso de bases de datos – Proyectos UOC
 Este repositorio recopila prácticas de la asignatura **Uso de bases de datos** (UOC) sobre una base de datos de bodegas, zonas y vinos. 
-El objetivo es mostrar mi forma de trabajar con PostgreSQL y PL/pgSQ* para funciones, procedimientos y disparadores, también  de Java (JDBC) para acceder a la base de datos, ejecutar consultas y realizar inserciones/actualizaciones con transacciones.
+El objetivo es mostrar mi forma de trabajar con PostgreSQL y PL/pgSQ para funciones, procedimientos y disparadores, también  de Java (JDBC) para acceder a la base de datos, ejecutar consultas y realizar inserciones/actualizaciones con transacciones.
 
 Cada práctica está organizada en una carpeta propia:
 **PR2 – Procedimientos y disparadores en PostgreSQL** (`PR2-procedimientos-y-disparadores`)  
